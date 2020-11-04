@@ -1,0 +1,13 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Xiaoyaosheng's library",
+  "author": "xiaoyaosheng <405263430@qq.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "docsify serve ."
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.1"
+  }
+}
