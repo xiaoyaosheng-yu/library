@@ -11,4 +11,4 @@
 * 架构杂文
 
 [GitHub](https://github.com/xiaoyaosheng-yu/library)
-[Get Started](#quick-start)
+[Get Started](README)
