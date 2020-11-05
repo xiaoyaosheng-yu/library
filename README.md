@@ -6,9 +6,9 @@
 
 
 ### 个人信息 <!-- {docsify-ignore} -->
-线上地址 <font color="#ff4400">[【前端橘子君】](http://xiaoysosheng.top)</font>
+线上地址 [【前端橘子君】](http://xiaoysosheng.top)
 
-GitHub仓库 <font color="#ff4400">[【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)</font>
+GitHub仓库 [【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
 
 
 ### 建库目的 <!-- {docsify-ignore} -->
