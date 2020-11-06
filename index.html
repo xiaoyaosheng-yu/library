@@ -28,6 +28,11 @@
     .markdown-section {
       max-width: 90%;
     }
+
+    #main img {
+      border: 1px solid #999;
+      border-radius: 4px;
+    }
   </style>
   <div id="app"></div>
   <script>
@@ -37,20 +42,20 @@
       coverpage: true,
       loadSidebar: true,
       loadNavbar: true,
-      // onlyCover: true,
+      onlyCover: true,
       subMaxLevel: 4, // 子导航最大层级
-      // auto2top: true, // 切换后是否自动回到顶部
-      // search: {
-      //   placeholder: '关键词',
-      //   noData: '未找到结果',
-      //   depth: 4
-      // },
-      // count: {
-      //   countable:true,
-      //   fontsize:'0.9em',
-      //   color:'rgb(90, 90, 90)',
-      //   language:'chinese'
-      // }
+      auto2top: true, // 切换后是否自动回到顶部
+      search: {
+        placeholder: '关键词',
+        noData: '未找到结果',
+        depth: 4
+      },
+      count: {
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90, 90, 90)',
+        language:'chinese'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
