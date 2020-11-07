@@ -25,4 +25,5 @@ GitHub仓库 [【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
 | 前端工程化     | 1          |
 | 算法与数据结构 | 0           |
 | 设计模式       | 0          |
+| 规范           | 4          |
 | Vue           | 0          |
