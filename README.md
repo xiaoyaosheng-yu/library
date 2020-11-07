@@ -22,7 +22,7 @@ GitHub仓库 [【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
 | CSS            | 0          |
 | 浏览器         | 0          |
 | 计算机基础知识  | 0          |
-| 前端工程化     | 0          |
+| 前端工程化     | 1          |
 | 算法与数据结构 | 0           |
 | 设计模式       | 0          |
 | Vue           | 0          |
