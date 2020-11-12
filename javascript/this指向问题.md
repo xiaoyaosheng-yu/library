@@ -1,6 +1,6 @@
 # this指向问题
 
-> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/javascript/this指向问题) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/javascript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%BD%E6%95%B0.md)
+> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/javascript/this指向问题) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/javascript/this%E6%8C%87%E5%90%91%E9%97%AE%E9%A2%98.md)
 
 ### 特别牢记
 > this的指向不是在函数定义时确定的，而是在函数**调用时**确定<br>this默认情况下指向window，严格模式下为undefined

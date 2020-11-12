@@ -1,6 +1,6 @@
 # 手写apply、call、bind函数
 
-> > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写apply_call_bind) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/javascript/%E5%8D%95%E7%BA%BF%E7%A8%8B%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF.md)
+> > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写apply_call_bind) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/%E6%89%8B%E5%86%99apply_call_bind.md)
 
 ### this指向
 ```javascript
@@ -23,7 +23,7 @@ fn() // 输出window
 - `obj.fn()`中函数 fn 的调用者是 obj，所以最后输出`obj`对象
 - `fn()`可以看作是`window.fn()`，window 是函数 fn 的调用者，所以输出`window`对象。
 
-详情可见 [this指向问题](http://localhost:3000/#/javascript/this指向问题.md)
+详情可见 [this指向问题](http://xiaoysosheng.top/#/interview/手写apply_call_bind)
 
 ### call、apply、bind的用法
 ```javascript
