@@ -1,6 +1,6 @@
 # 手写apply、call、bind函数
 
-> 已发表于
+> > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写apply_call_bind) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/javascript/%E5%8D%95%E7%BA%BF%E7%A8%8B%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF.md)
 
 ### this指向
 ```javascript
