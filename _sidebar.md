@@ -10,6 +10,9 @@
 * CSS
   * [重绘和回流](css/重绘和回流.md "redraw")
 
+* 设计模式
+  * [设计模式之单例模式](mode/单例模式.md "single case")
+
 * 前端工程化
   * [自动化部署(jenkins+gitea+node+react)](engineering/自动化部署.md "jenkins")
   <!-- * [前端数据缓存方案](engineering/api缓存.md "api cache") -->
