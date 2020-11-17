@@ -12,6 +12,8 @@
 
 * 设计模式
   * [设计模式之单例模式](mode/单例模式.md "single case")
+  * [设计模式之发布订阅者模式](mode/发布订阅者模式.md "subscriber")
+  * [设计模式之观察者模式](mode/观察者模式.md "watcher")
 
 * 前端工程化
   * [自动化部署(jenkins+gitea+node+react)](engineering/自动化部署.md "jenkins")
