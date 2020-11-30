@@ -15,6 +15,7 @@
   * [设计模式之发布订阅者模式](mode/发布订阅者模式.md "subscriber")
   * [设计模式之观察者模式](mode/观察者模式.md "watcher")
   * [设计模式之策略模式](mode/策略模式.md "strategy")
+  * [设计模式之代理模式](mode/代理模式.md "proxy")
 
 * 前端工程化
   * [自动化部署(jenkins+gitea+node+react)](engineering/自动化部署.md "jenkins")
