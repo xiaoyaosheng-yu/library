@@ -27,3 +27,4 @@
 
 * 面试相关
   * [手写apply、call、bind](interview/手写apply_call_bind.md "apply call bind")
+  * [手写reduce](interview/手写reduce.md "reduce")
