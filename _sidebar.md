@@ -29,4 +29,4 @@
   * [手写apply、call、bind](interview/手写apply_call_bind.md "apply call bind")
   * [手写reduce](interview/手写reduce.md "reduce")
   * [手写promise](interview/手写promise.md "promise")
-  * [手写promise](interview/1px问题及解决方案.md "1px")
+  * [1px问题及解决方案](interview/1px问题及解决方案.md "1px")
