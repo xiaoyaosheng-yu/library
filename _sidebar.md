@@ -9,6 +9,7 @@
 
 * CSS
   * [重绘和回流](css/重绘和回流.md "redraw")
+  * [1px问题及解决方案](css/1px问题及解决方案.md "1px")
 
 * 设计模式
   * [设计模式之单例模式](mode/单例模式.md "single case")
@@ -29,4 +30,3 @@
   * [手写apply、call、bind](interview/手写apply_call_bind.md "apply call bind")
   * [手写reduce](interview/手写reduce.md "reduce")
   * [手写promise](interview/手写promise.md "promise")
-  * [1px问题及解决方案](interview/1px问题及解决方案.md "1px")
