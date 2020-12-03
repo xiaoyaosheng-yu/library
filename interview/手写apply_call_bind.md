@@ -1,5 +1,3 @@
-# 手写apply、call、bind函数
-
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写apply_call_bind) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/手写apply_call_bind.md)
 
 ### this指向

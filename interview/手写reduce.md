@@ -1,4 +1,3 @@
-# 手写reduce
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写reduce) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/手写reduce.md)
 
 > 接收一个函数作为累加器，遍历数组中的每个值（从左到右），最终计算并返回为一个值

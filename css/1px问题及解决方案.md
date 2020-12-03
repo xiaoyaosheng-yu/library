@@ -1,5 +1,3 @@
-# 1px问题及解决方案
-
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/css/1px问题及解决方案) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/css/1px问题及解决方案.md)
 
 在项目开发过程中，设计师经常会说，这里边框像素边框不对，要求1像素但是实际是2像素，当我们去查代码时我们写的就是`1px`，这是前端开发者经常遇到的一个问题，也就是`1px像素问题`。

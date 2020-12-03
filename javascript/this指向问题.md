@@ -1,5 +1,3 @@
-# this指向问题
-
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/javascript/this指向问题) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/javascript/this指向问题.md)
 
 ### 特别牢记

@@ -1,5 +1,3 @@
-# verdaccio搭建npm私服
-
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/engineering/npm私服) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/engineering/npm私服.md)
 
 `verdaccio` 是一个 Node.js创建的轻量级私有npm仓库，具有易安装、易操作、较稳定的特点，应用范围广。

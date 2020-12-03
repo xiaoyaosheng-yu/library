@@ -1,5 +1,3 @@
-# 手写prmise
-
 > 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/手写promise) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/手写promise.md)
 
 `promise`就是将异步任务队列化，将多个异步任务按照顺序输出，同时用链式调用解决回调地狱的问题。
