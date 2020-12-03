@@ -20,7 +20,10 @@
 
 * 前端工程化
   * [自动化部署(jenkins+gitea+node+react)](engineering/自动化部署.md "jenkins")
+  * [搭建npm私服](engineering/搭建npm私服.md "npm")
   <!-- * [前端数据缓存方案](engineering/api缓存.md "api cache") -->
+
+* 前端规范
   * [HTML规范](standard/html/index.md "HTML规范")
   * [CSS规范](standard/css/index.md "CSS规范")
   * [JavaScript规范](standard/js/index.md "JavaScript规范")
