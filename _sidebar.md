@@ -11,6 +11,9 @@
   * [重绘和回流](css/重绘和回流.md "redraw")
   * [1px问题及解决方案](css/1px问题及解决方案.md "1px")
 
+* 浏览器
+  * [垃圾回收机制](browser/垃圾回收机制.md "garbage collection")
+
 * 设计模式
   * [设计模式之单例模式](mode/单例模式.md "single case")
   * [设计模式之发布订阅者模式](mode/发布订阅者模式.md "subscriber")
