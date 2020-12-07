@@ -18,7 +18,7 @@ GitHub仓库 [【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
 
 | 分类           | 进度        |
 | --------       | :--------: |
-| JavaScript     | 4          |
+| JavaScript     | 5          |
 | CSS            | 2          |
 | 浏览器         | 1          |
 | 计算机基础知识  | 0          |
