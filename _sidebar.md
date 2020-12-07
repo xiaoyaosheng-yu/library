@@ -6,6 +6,7 @@
   * [单线程和事件循环](javascript/单线程和事件循环.md "event loop")
   * [变量提升和优先级](javascript/变量提升及优先级.md "hoisting")
   * [this指向问题](javascript/this指向问题.md "this")
+  * [原型及原型链](javascript/原型及原型链.md "prototype")
 
 * CSS
   * [重绘和回流](css/重绘和回流.md "redraw")
