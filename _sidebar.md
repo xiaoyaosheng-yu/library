@@ -38,3 +38,4 @@
   * [手写reduce](interview/手写reduce.md "reduce")
   * [手写promise](interview/手写promise.md "promise")
   * [手写instanceof](interview/手写instanceof.md "instanceof")
+  * [new操作符原理及实现](interview/new操作符原理及实现.md "new")
