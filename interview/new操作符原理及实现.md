@@ -1,4 +1,4 @@
-> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/new关键字原理及实现) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/new关键字原理及实现.md)
+> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/interview/new操作符原理及实现) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/interview/new操作符原理及实现.md)
 
 ### new 的用法
 
