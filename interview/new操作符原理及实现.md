@@ -121,6 +121,23 @@ console.log(person.age); // 26
 console.log(person instanceof Person); // true
 ```
 
+这里还需要考虑一个问题，当构造函数返回的是引用类型时，如`object`, `array`, `function`，new操作符返回的应该是构造函数返回的结果。
+
+这个还是比较容易实现的，只需要判断一下`ctor.call(obj, ...args)`返回的类型是否为引用类型，如果是，则返回`ctor`执行后的结果，否则返回`obj`。
+
+```javascript
+function _new (ctor, ...args) {
+  // 第一步，创建新对象
+  var obj = {};
+  // 第二步，忽略
+  obj.__proto__ = ctor.prototype
+  // 第三步，执行构造函数，并将构造函数的初始属性都挂载在新对象上
+  var result = ctor.call(obj, ...args);
+  // 返回新对象
+  return typeof result === 'object' ? result : obj;
+}
+```
+
 -------
 
 更多相关文档，请见：
