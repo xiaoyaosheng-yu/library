@@ -1,3 +1,5 @@
+> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/engineering/mysql主从复制) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/engineering/mysql主从复制.md)
+
 ### docker安装mysql
 
 ```bash
@@ -128,9 +130,9 @@ mysql> show slave status \G
 
 至此所有的主从复制功能已经配置完成，来看看效果吧
 
-![01](../static/images/mysql_m_s/01.gif)
+![01](http://xiaoysosheng.top:5000/images/mysql_m_s/01.gif)
 
-### 问题答疑：
+### 问题答疑
 1、`vi /etc/mysql/my.cnf`操作失败
 需要先执行，从数据库也是同样
 ```bash
@@ -143,3 +145,11 @@ apt-get install vim
 
 3、`Slave_IO_Running`一直为连接状态
 检查`change master to ...;`是否配置正确，其中`master_host`是宿主机(即真实机器的地址，不能用`127.0.0.1`或者`localhost`)
+
+-------
+
+更多相关文档，请见：
+
+线上地址 [【前端橘子君】](http://xiaoysosheng.top)
+
+GitHub仓库[【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
