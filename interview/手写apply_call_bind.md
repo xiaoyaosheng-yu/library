@@ -59,7 +59,7 @@ sum.call(obj, 1, 2)
  * @params {Object} ctx 即目标对象
  * @params {any} args 真实的参数
 */
-Function.prototype._call = function (ctx, ...args) { // 用结构的方法解决可变参数的问题
+Function.prototype._call = function (ctx, ...args) { // 用解构的方法解决可变参数的问题
   ctx.fn = this; // 修改this的指向
   return ctx.fn(...args); // 此时的this指向的就是ctx
 }
@@ -103,7 +103,7 @@ console.log(n) // 输出： 1
 因此我们可以用`Symbol()`来解决上述遗留的第二个问题
 
 ```javascript
-Function.prototype._call = function (ctx, ...args) { // 用结构的方法解决可变参数的问题
+Function.prototype._call = function (ctx, ...args) { // 用解构的方法解决可变参数的问题
   ctx = ctx || window; // 默认为window
   let Sym = Symbol('fn'); // 创建临时属性
   ctx[Sym] = this; // 修改this的指向
