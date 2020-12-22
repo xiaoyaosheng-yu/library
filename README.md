@@ -20,8 +20,7 @@ GitHub仓库 [【前端橘子君】](https://github.com/xiaoyaosheng-yu/library)
 | --------       | :--------: |
 | JavaScript     | 5          |
 | CSS            | 2          |
-| 浏览器         | 1          |
-| 计算机基础知识  | 0          |
+| 浏览器         | 2          |
 | 前端工程化     | 8          |
 | 算法与数据结构 | 0           |
 | 设计模式       | 5          |

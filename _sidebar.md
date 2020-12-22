@@ -14,6 +14,7 @@
 
 * 浏览器
   * [垃圾回收机制](browser/垃圾回收机制.md "garbage collection")
+  * [DNS域名解析](browser/DNS域名解析.md "DNS")
 
 * 设计模式
   * [设计模式之单例模式](mode/单例模式.md "single case")
