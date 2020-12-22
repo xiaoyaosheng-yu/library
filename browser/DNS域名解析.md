@@ -1,4 +1,4 @@
-> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/engineering/DNS域名解析) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/engineering/DNS域名解析.md)
+> 本文档已更新于 [【前端橘子君】](http://xiaoysosheng.top/#/browser/DNS域名解析) [【Github】](https://github.com/xiaoyaosheng-yu/library/blob/master/browser/DNS域名解析.md)
 
 > 域名解析是把域名指向网站空间IP，让人们通过注册的域名可以方便地访问到网站的一种服务。
 
